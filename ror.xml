@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://http-checker.vercel.app/</title>
+  <link>https://http-checker.vercel.app/</link>
+
+<item>
+     <link>https://http-checker.vercel.app/</link>
+     <title>HTTP Header Check</title>
+     <description>A site to know the status of any site after the attack | موقع لمعرفة حالة أي موقع بعد الهجوم </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
