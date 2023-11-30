@@ -1,0 +1,35 @@
+{
+  "name": "HTTP Checker",
+  "short_name": "HTTP Checker",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/MTRtYRwy/4417114-desktop-pc-server-icon.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.postimg.cc/MTRtYRwy/4417114-desktop-pc-server-icon.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/MTRtYRwy/4417114-desktop-pc-server-icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/MTRtYRwy/4417114-desktop-pc-server-icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/MTRtYRwy/4417114-desktop-pc-server-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
